@@ -1,0 +1,8 @@
+lose
+Thu Feb 09 2023 22:30:04 GMT+0300 (Москва, стандартное время): lose
+function toLocaleTimeString() { [native code] }: lose
+22:31:12: lose
+09.02.2023: win
+09.02.2023 22:35:51: win
+09.02.2023 22:36:15 - lose
+09.02.2023 22:37:15 > win
